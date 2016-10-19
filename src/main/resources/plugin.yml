@@ -1,0 +1,5 @@
+name: ProtectionPlus
+version: 1.0
+main: me.violantic.pp.ProtectionPlugin
+description: Custom zone protection
+author: Violantic
